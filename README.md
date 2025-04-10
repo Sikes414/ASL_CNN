@@ -1,6 +1,7 @@
 # ASL Gesture Recognition with CNN and Mediapipe
 
 This repository contains a project for real-time American Sign Language (ASL) gesture recognition using a Convolutional Neural Network (CNN) and Mediapipe Hands for hand detection and preprocessing.
+This project was initially created in Google Colab; I trasnfered it to these repo  for ease of access.
 
 ## Project Overview
 
